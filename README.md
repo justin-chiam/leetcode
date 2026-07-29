@@ -22,4 +22,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0876-middle-of-the-linked-list/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
