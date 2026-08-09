@@ -37,6 +37,7 @@
 | [0100-same-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0100-same-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0098-validate-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | [0100-same-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0100-same-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
