@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
