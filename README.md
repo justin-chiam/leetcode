@@ -1,10 +1,9 @@
-# leetcode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode 💻
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium | 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0203-remove-linked-list-elements/) | Easy |
