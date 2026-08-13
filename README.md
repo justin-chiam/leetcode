@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0100-same-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
@@ -62,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
@@ -71,6 +74,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0100-same-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
@@ -91,4 +95,8 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
