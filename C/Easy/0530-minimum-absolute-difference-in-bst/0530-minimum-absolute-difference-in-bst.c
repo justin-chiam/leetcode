@@ -17,9 +17,8 @@ void doGetMinimumDifference(struct TreeNode* t, bool *firstVal, int *prev, int *
         *prev = t->val;
         *firstVal = false;
     } else {
-        int diff = abs(t->val - *prev);
-        if (*min == 0 || diff < *min) {
-            *min = diff;
+        if (*min == 0 || abs(t->val - *prev) < *min) {
+            *min = abs(t->val - *prev);
         }
         *prev = t->val;
     }
