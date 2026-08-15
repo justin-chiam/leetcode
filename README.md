@@ -52,6 +52,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +87,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +97,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0100-same-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
