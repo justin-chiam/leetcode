@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Array
@@ -39,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
