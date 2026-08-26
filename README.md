@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
