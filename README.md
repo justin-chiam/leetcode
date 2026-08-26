@@ -38,11 +38,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,5 +143,14 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
