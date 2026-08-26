@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0002-add-two-numbers/) | Medium |
+| [0069-sqrtx](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0222-count-complete-tree-nodes/) | Medium |
@@ -128,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
