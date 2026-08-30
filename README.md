@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 ## Hash Table
@@ -123,6 +124,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 ## String
@@ -155,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
