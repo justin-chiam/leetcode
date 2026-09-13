@@ -9,6 +9,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
@@ -32,6 +33,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Array
@@ -46,6 +48,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Tree
