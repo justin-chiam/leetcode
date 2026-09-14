@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/justin-chiam/leetcode/tree/main/C/Medium/0002-add-two-numbers/) | Medium |
 | [0069-sqrtx](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0367-valid-perfect-square](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
