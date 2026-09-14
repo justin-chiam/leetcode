@@ -47,6 +47,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justin-chiam/leetcode/tree/main/Python3/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [0141-linked-list-cycle](https://github.com/justin-chiam/leetcode/tree/main/C/Easy/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/2351-first-letter-to-appear-twice/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/justin-chiam/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
